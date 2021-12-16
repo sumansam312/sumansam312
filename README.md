@@ -2,7 +2,8 @@
 ###  I'm Sumanth 😄
 #### Learning Python programming @Skilldisk
 ##### Student @MVJ college of engg
-##### EEE ![image](https://user-images.githubusercontent.com/92622011/146306621-c56b7aa4-73e7-4507-860a-f45dc51c3659.png)
+##### ![image](https://user-images.githubusercontent.com/92622011/146306704-5f2f9ce0-239f-474f-9c74-3983625145f4.png)
+
 
 
 
