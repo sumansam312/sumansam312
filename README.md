@@ -17,6 +17,7 @@
   
   <a href="https://twitter.com/Suman_s_a_m"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://www.facebook.com/sumanth.sumu.3154"><img alt="Facebook" title="Skill Disk Facebook Page" src="https://img.shields.io/badge/-facebook-3835D3?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/suman_s_a_m/"><img alt="Free Stuff" title="Free gifts for you" src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/Suman_s_a_m"><img alt="Sumanth Telegram" title="Check out Skill Disk Telegram Channel" src="https://img.shields.io/badge/-Telegram-0000ff.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/suman_s_a_m/"><img alt="instagram" title="Free gifts for you" src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/Suman_s_a_m"><img alt="Sumanth Telegram" title="Telegram Channel" src="https://img.shields.io/badge/-Telegram-0000ff.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Suman_s_a_m"><img alt="Sumanth github" title="Github" src="https://img.shields.io/badge/-Github-232121.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
