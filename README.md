@@ -11,7 +11,7 @@
 ## 🔒 **Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
 * 🚀 Specializing in web app security, network penetration testing, and red teaming
 * 🖥️ Kali Linux, Parrot OS, BlackArch, Ubuntu, Tails
-* 🛠️ Tools: Wireshark, Burp Suite, Metasploit, Nmap,John the Ripper, Recon-ng, Aircrack-ng
+* 🛠️ Tools: Wireshark, Burp Suite, Metasploit, Nmap, John the Ripper, Recon-ng, Aircrack-ng
 * 🔑 Always exploring new attack vectors and improving security defenses
 * 🌐 Let’s connect and make the internet a safer place!  
 * 📚 Portfolio [Cick Here](https://sumansam312.github.io/Portfolio/)
