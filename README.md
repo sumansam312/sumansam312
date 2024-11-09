@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiii%20I'm%20Sumanth+;Pentester+and+Ethical-Hacker+;&center=true&width=400&height=50">
 </p>
 
-* 🔒 **Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
+## 🔒 **Penetration Tester | Ethical Hacker | Cybersecurity Enthusiast**
 * 🚀 Specializing in web app security, network penetration testing, and red teaming
 * 🛠️ Tools: Burp Suite, Kali Linux, Metasploit, Nmap, Wireshark
 * 📚 Portfolio [Cick Here](https://sumansam312.github.io/Portfolio/)
