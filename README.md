@@ -5,7 +5,7 @@
 
 <!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiii%20I'm%20Sumanth+;Pursuing+Engineering+in+MVJCE+;&center=true&width=400&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hiii%20I'm%20Sumanth+;Pentester+and+Ethical-Hacker+;&center=true&width=400&height=50">
 </p>
 
 
